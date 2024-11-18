@@ -6,7 +6,7 @@ this script is a helper for the automated install of xfce4 and vncserver
 ### TODO
 Update python script as a equivalent to _cmd.bash
 
-#### This Installs following APT-Packages
+### This Installs following APT-Packages
 
 - git
 - xfce4
