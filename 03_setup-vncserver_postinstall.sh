@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DESTINATION="/home/sascha/.vnc/xstartup"
+DESTINATION="/root/.vnc/xstartup"
 URL="https://raw.githubusercontent.com/Izzy3110/cloudserver-install/refs/heads/main/vncserver/xstartup"
 
 if wget -O "$DESTINATION" "$URL"; then
