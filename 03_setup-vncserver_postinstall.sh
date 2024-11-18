@@ -11,3 +11,5 @@ else
 fi
 
 chmod +x $DESTINATION
+vncserver -kill :1
+vncserver -geometry 1920x1500
