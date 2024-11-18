@@ -1,9 +1,7 @@
 # cloudserver-install
 
-## Description
+### Description
 this script is a helper for the automated install of xfce4 and vncserver
-
-### Usage
 
 ### TODO
 Update python script as a equivalent to _cmd.bash
