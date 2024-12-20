@@ -9,4 +9,5 @@ xsetroot -solid grey
 # /etc/X11/Xsession
 autocutsel &
 startxfce4 &
-
+sleep 1
+firefox-esr https://chaturbate.com/rebekahblack_/
