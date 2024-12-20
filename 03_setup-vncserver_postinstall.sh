@@ -30,6 +30,8 @@ EOF
 
 chmod +x "$DESKTOP_FILE_PATH"
 
+update-desktop-database $HOME/.local/share/applications
+
 chmod +x $DESTINATION
 vncserver -kill :1
 vncserver -geometry 1920x1500
